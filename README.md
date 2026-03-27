@@ -2,11 +2,14 @@
 
 A Django REST Framework-based API for managing clinic patients and appointments with token-based authentication.
 
-## Features<img width="1919" height="880" alt="Screenshot 2026-03-28 041958" src="https://github.com/user-attachments/assets/909eb7b7-bcdf-46d3-ab96-5cd94f756df1" />
-<img width="1912" height="864" alt="Screenshot 2026-03-28 042021" src="https://github.com/user-attachments/assets/323e2011-b279-4f2e-b00d-80357c048114" />
 
-<img width="941" height="822" alt="Screenshot 2026-03-28 042047" src="https://github.com/user-attachments/assets/b6068e55-d581-4969-86fa-e85bded3af65" />
-<img width="1919" height="955" alt="Screenshot 2026-03-28 034604" src="https://github.com/user-attachments/assets/2eca385f-71aa-45d2-a58c-392635bd9a6b" />
+# Dashboard Screenshots
+
+<img src="https://github.com/user-attachments/assets/909eb7b7-bcdf-46d3-ab96-5cd94f756df1" width="800" />
+<img src="https://github.com/user-attachments/assets/323e2011-b279-4f2e-b00d-80357c048114" width="800">
+<img src="https://github.com/user-attachments/assets/b6068e55-d581-4969-86fa-e85bded3af65" width="800">
+<img src="https://github.com/user-attachments/assets/2eca385f-71aa-45d2-a58c-392635bd9a6b"  width="800">
+
 
 - Patient management (CRUD operations)
 - Appointment scheduling and management
