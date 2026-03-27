@@ -1,0 +1,48 @@
+[
+{
+  "model": "patients.patient",
+  "pk": 1,
+  "fields": {
+    "name": "John Doe",
+    "age": 23,
+    "gender": "Male",
+    "contact_number": "7275236846",
+    "blood_group": "b",
+    "created_at": "2026-03-27T20:23:24.362Z"
+  }
+},
+{
+  "model": "patients.patient",
+  "pk": 2,
+  "fields": {
+    "name": "Alias",
+    "age": 22,
+    "gender": "Female",
+    "contact_number": "727523678",
+    "blood_group": "A+",
+    "created_at": "2026-03-27T20:24:01.823Z"
+  }
+},
+{
+  "model": "patients.appointment",
+  "pk": 1,
+  "fields": {
+    "patient": 1,
+    "doctor_name": "DR. Dr. Smith",
+    "appointment_date": "2026-03-27T20:24:37Z",
+    "reason": "Routine Checkup",
+    "status": "Confirmed"
+  }
+},
+{
+  "model": "patients.appointment",
+  "pk": 2,
+  "fields": {
+    "patient": 2,
+    "doctor_name": "DR. Dr. Smarth",
+    "appointment_date": "2026-03-28T20:24:37Z",
+    "reason": "Blood Test",
+    "status": "Confirmed"
+  }
+}
+]
